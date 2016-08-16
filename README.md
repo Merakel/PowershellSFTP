@@ -24,7 +24,7 @@ This function will download files that are passed to it through the pipeline, or
 * RemotePath - Location of the files you want to find on the SFTP site.
 * LocalPath - Location where you want the downloaded files stored.
 
-# Potential Features to add:
+# Potential Features to Add
 
 * Recursively downloading files.
 * Downloading directories rather than individual files.
